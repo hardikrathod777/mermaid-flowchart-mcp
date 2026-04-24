@@ -403,9 +403,9 @@ pytest tests/test_llm_service.py -v
 
 ## 🐛 Troubleshooting
 
-### "ANTHROPIC_API_KEY not set"
+### "OPENAI_API_KEY not set"
 - Copy `.env.example` to `.env`
-- Add your API key: `ANTHROPIC_API_KEY=sk-ant-xxx...`
+- Add your API key: `OPENAI_API_KEY=sk-ant-xxx...`
 
 ### "Playwright not installed"
 ```bash
@@ -465,7 +465,7 @@ MIT License - see LICENSE file for details
 
 - 🐛 **Issues**: [GitHub Issues](https://github.com/yourorg/mermaid-mcp-server/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/yourorg/mermaid-mcp-server/discussions)
-- 📧 **Email**: support@example.com
+- 📧 **Email**: rathodhardik0914@gmail.com
 
 ---
 
